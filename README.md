@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanielKirschen
 - I am a professor in the Department of Electrical and Computer Engineering at the University of Washington in Seattle, WA, USA
 - 👀 I’m interested in electric power systems
-- 🌱 I’m currently working on a textbook on that topic
-- 💞️ I’m planning on using GitHub to share code and data for examples and problems in this textbook
+- 🌱 I have written a textbook on that topic
+- 💞️ I’m using GitHub to share code and data for examples and problems in this textbook
 - 📫 To reach me, send an email at kirschen@uw.edu
 
 <!---
